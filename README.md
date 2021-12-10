@@ -1,2 +1,2 @@
 # MSc-Project-Object-Detection-with-YOLOv4
-Contains program files, model profiles and datasets.
+This contains the program files, model configuration files and datasets.
